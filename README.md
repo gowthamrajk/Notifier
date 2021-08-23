@@ -71,6 +71,9 @@
 ![image](https://user-images.githubusercontent.com/43011442/130464111-044ba144-5b13-4c51-beee-8d058e39d53c.png)
 
 
+## Author Info Page
+
+![image](https://user-images.githubusercontent.com/43011442/130464303-bea6bc4b-2956-4ccb-b78c-51a4629105e2.png)
 
 
 <br><br>
