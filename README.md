@@ -123,6 +123,7 @@
 ## Edit NoteBook
 
 ![image](https://user-images.githubusercontent.com/43011442/130467697-b92292cb-9ab5-499c-8654-ba5a95629109.png)
+![image](https://user-images.githubusercontent.com/43011442/130467775-0fb9135a-0c35-49a4-b45a-78382252e801.png)
 
 
 
