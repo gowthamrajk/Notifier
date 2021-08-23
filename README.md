@@ -79,6 +79,10 @@
 ![image](https://user-images.githubusercontent.com/43011442/130464689-05b2738a-0ec5-4875-ae95-cefa98a710a1.png)
 ![image](https://user-images.githubusercontent.com/43011442/130464752-e9b2b8e9-7b9b-4b18-a1af-81429d96e235.png)
 
+## Reset Password page
+
+![image](https://user-images.githubusercontent.com/43011442/130464926-e9e52dbe-3641-4ba8-b975-c77d7c921221.png)
+
 
 ## Author Info Page
 
