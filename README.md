@@ -37,6 +37,7 @@
 ## Server Side ⚡
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=DD0031&logo=Java&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=6DB33F&logoColor=FFFFFF&label=)
 
 
 ## Development Tools 📺
