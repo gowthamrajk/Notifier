@@ -155,6 +155,10 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130464303-bea6bc4b-2956-4ccb-b78c-51a4629105e2.png)
 
+## Logout Page
+
+![image](https://user-images.githubusercontent.com/43011442/130469336-31e9d277-3c24-41e3-b5f8-2ce928707dfd.png)
+
 
 <br><br>
 
