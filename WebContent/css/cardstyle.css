@@ -1,0 +1,523 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+  padding: 50px;
+  background: #37b36d;
+  text-align: center;
+}
+.container
+{
+  height: 250px;
+  width: 250px;
+  margin-top: -10px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0px 5px 30px 15px rgba(0,0,0,0.5);
+  background: linear-gradient(80deg, #26bda4, #782ca3,#26bda4);
+}
+.container:hover
+{
+  height: 540px;
+  width: 390px;
+  border-radius: 20px;
+  box-shadow: 0 25px 25px 15px rgba(0,0,0,0.6);
+}
+.container .wrapper img
+{
+  position: relative;
+  z-index: 20;
+  border-radius: 50%;
+  display: block;
+  height: 200px;
+  width: 200px;
+  border: 5px solid #fff;
+  object-fit: cover;
+  margin: 20px auto;
+  transition: all 0.3s ease;
+}
+.container:hover .wrapper img.active
+{
+   height: 540px;
+  width: 390px;
+  margin: 0px auto;
+  border: none;
+  border-radius: 5px;
+}
+
+.wrapper .title,
+{
+  color: white;
+  font-size: 30px;
+  font-family: 'Patua One', cursive;
+  font-weight: 500;
+  padding: 10px;
+  line-height: 25px;
+}
+.text
+{
+   font-family: cursive; 
+   color: #fff;
+   text-align: center;
+}
+.content
+{
+  color: #fff;
+  font-size: 17px;
+  margin-top: -28px;
+  font-family: 'Kelly Slab', cursive;
+  padding: 5px 20px 10px 20px!important;
+}
+.content .buttons
+{
+  display: flex;
+}
+.buttons .btn
+{
+  height: 40px;
+  width: 150px;
+  margin: 0 10px;
+}
+.buttons .btn button
+{
+  height: 100%;
+  width: 100%;
+  background: #e2f595;
+  box-shadow: 2px 4px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-style: cursive;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 15px;
+  transition: all 0.3s;
+}
+.btn button:hover
+{
+  transform: scale(0.95);
+}
+.container .icons
+{
+  position: relative;
+  margin-top: -510px;
+  margin-left: 10px;
+  list-style: none;
+}
+.container .icons.active
+{
+  display: none;
+}
+.container .icons li
+{
+  height: 40px;
+  width: 40px;
+  margin: 5px 0;
+  opacity: 0;
+  margin-left: -100px;
+  transition: all 0.5s ease;
+}
+.container:hover .icons li
+{
+  opacity: 1;
+  margin-left: 7px;
+}
+.container:hover .icons li:nth-child(2)
+{
+  transition-delay: 0.2s;
+}
+.container:hover .icons li:nth-child(3)
+{
+  transition-delay: 0.4s;
+}
+.container:hover .icons li:nth-child(4)
+{
+  transition-delay: 0.6s;
+}
+.container:hover .icons li:nth-child(5)
+{
+  transition-delay: 0.8s;
+}
+.container:hover .icons li:nth-child(6)
+{
+  transition-delay: 1s;
+}
+.container .icons li a
+{
+  color: #7b00e0;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  background: #fff;
+  display: block;
+  line-height: 40px;
+  transition: all 0.3s;
+}
+.container .icons li a:hover
+{
+  transform: scale(0.9);
+}
+
+.cont
+{
+  overflow: hidden;
+  position: relative;
+  width: 900px;
+  margin: 0;
+  left: 17%;
+  top: 40px;
+  height: 580px;
+  border-radius: 25px;
+  background: #fbfcae;
+  box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.30), 20px 20px 20px 20px rgba(0, 0, 0, 0.22);
+}
+
+.sub-cont
+{
+  overflow: hidden;
+  position: absolute;
+  left: 540px;
+  top: 0;
+  width: 100px;
+  height: 100%;
+  padding-left: 260px;
+  background: #e6bd43;
+  -webkit-transition: -webkit-transform 1.2s ease-in-out;
+  transition: -webkit-transform 1.2s ease-in-out;
+  transition: transform 1.2s ease-in-out;
+  box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+}
+
+.sub-cont img
+{
+  width: 90%;
+  height: 60%;
+  margin-left: -80%;
+  margin-top: 60%;
+  position: absolute;
+}
+
+.alert
+{
+  overflow: hidden;
+  position: relative;
+  width: 300px;
+  margin: 0;
+  right: 37%;
+  left: -230%;
+  top: 18%;
+  height: 280px;
+  border-radius: 25px;
+  background: #fff ;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.30);
+}
+
+.text1
+{
+  position: relative;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 30px;
+  font-family: 'Kelly Slab';
+  font-style: bold;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.buttons2 .btn2
+{
+  height: 40px;
+  width: 150px;
+  margin: 0 10px;
+}
+.buttons2 .btn2 button
+{
+  height: 100%;
+  width: 100%;
+  margin-left: -220%; 
+  margin-top: 100%;
+  background: #e2f595;
+  box-shadow: 2px 4px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-style: cursive;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 15px;
+  transition: all 0.3s;
+}
+.btn2 button:hover
+{
+  transform: scale(0.95);
+}@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+  padding: 50px;
+  background: #37b36d;
+  text-align: center;
+}
+.container
+{
+  height: 250px;
+  width: 250px;
+  margin-top: -10px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0px 5px 30px 15px rgba(0,0,0,0.5);
+  background: linear-gradient(80deg, #26bda4, #782ca3,#26bda4);
+}
+.container:hover
+{
+  height: 540px;
+  width: 390px;
+  border-radius: 20px;
+  box-shadow: 0 25px 25px 15px rgba(0,0,0,0.6);
+}
+.container .wrapper img
+{
+  position: relative;
+  z-index: 20;
+  border-radius: 50%;
+  display: block;
+  height: 200px;
+  width: 200px;
+  border: 5px solid #fff;
+  object-fit: cover;
+  margin: 20px auto;
+  transition: all 0.3s ease;
+}
+.container:hover .wrapper img.active
+{
+   height: 540px;
+  width: 390px;
+  margin: 0px auto;
+  border: none;
+  border-radius: 5px;
+}
+
+.wrapper .title,
+{
+  color: white;
+  font-size: 30px;
+  font-family: 'Patua One', cursive;
+  font-weight: 500;
+  padding: 10px;
+  line-height: 25px;
+}
+.text
+{
+   font-family: cursive; 
+   color: #fff;
+   text-align: center;
+}
+.content
+{
+  color: #fff;
+  font-size: 17px;
+  margin-top: -28px;
+  font-family: 'Kelly Slab', cursive;
+  padding: 5px 20px 10px 20px!important;
+}
+.content .buttons
+{
+  display: flex;
+}
+.buttons .btn
+{
+  height: 40px;
+  width: 150px;
+  margin: 0 10px;
+}
+.buttons .btn button
+{
+  height: 100%;
+  width: 100%;
+  background: #e2f595;
+  box-shadow: 2px 4px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-style: cursive;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 15px;
+  transition: all 0.3s;
+}
+.btn button:hover
+{
+  transform: scale(0.95);
+}
+.container .icons
+{
+  position: relative;
+  margin-top: -510px;
+  margin-left: 10px;
+  list-style: none;
+}
+.container .icons.active
+{
+  display: none;
+}
+.container .icons li
+{
+  height: 40px;
+  width: 40px;
+  margin: 5px 0;
+  opacity: 0;
+  margin-left: -100px;
+  transition: all 0.5s ease;
+}
+.container:hover .icons li
+{
+  opacity: 1;
+  margin-left: 7px;
+}
+.container:hover .icons li:nth-child(2)
+{
+  transition-delay: 0.2s;
+}
+.container:hover .icons li:nth-child(3)
+{
+  transition-delay: 0.4s;
+}
+.container:hover .icons li:nth-child(4)
+{
+  transition-delay: 0.6s;
+}
+.container:hover .icons li:nth-child(5)
+{
+  transition-delay: 0.8s;
+}
+.container:hover .icons li:nth-child(6)
+{
+  transition-delay: 1s;
+}
+.container .icons li a
+{
+  color: #7b00e0;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  background: #fff;
+  display: block;
+  line-height: 40px;
+  transition: all 0.3s;
+}
+.container .icons li a:hover
+{
+  transform: scale(0.9);
+}
+
+.cont
+{
+  overflow: hidden;
+  position: relative;
+  width: 900px;
+  margin: 0;
+  left: 17%;
+  top: 40px;
+  height: 580px;
+  border-radius: 25px;
+  background: #fbfcae;
+  box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.30), 20px 20px 20px 20px rgba(0, 0, 0, 0.22);
+}
+
+.sub-cont
+{
+  overflow: hidden;
+  position: absolute;
+  left: 540px;
+  top: 0;
+  width: 100px;
+  height: 100%;
+  padding-left: 260px;
+  background: #e6bd43;
+  -webkit-transition: -webkit-transform 1.2s ease-in-out;
+  transition: -webkit-transform 1.2s ease-in-out;
+  transition: transform 1.2s ease-in-out;
+  box-shadow: 0 29px 38px rgba(0, 0, 0, 0.30), 0 25px 22px rgba(0, 0, 0, 0.22);
+}
+
+.sub-cont img
+{
+  width: 90%;
+  height: 60%;
+  margin-left: -80%;
+  margin-top: 60%;
+  position: absolute;
+}
+
+.alert
+{
+  overflow: hidden;
+  position: relative;
+  width: 300px;
+  margin: 0;
+  right: 37%;
+  left: -230%;
+  top: 18%;
+  height: 280px;
+  border-radius: 25px;
+  background: #fff ;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.30);
+}
+
+.text1
+{
+  position: relative;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 30px;
+  font-family: 'Kelly Slab';
+  font-style: bold;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.buttons2 .btn2
+{
+  height: 40px;
+  width: 150px;
+  margin: 0 10px;
+}
+.buttons2 .btn2 button
+{
+  height: 100%;
+  width: 100%;
+  margin-left: -220%; 
+  margin-top: 100%;
+  background: #e2f595;
+  box-shadow: 2px 4px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-style: cursive;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 15px;
+  transition: all 0.3s;
+}
+.btn2 button:hover
+{
+  transform: scale(0.95);
+}

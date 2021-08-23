@@ -1,0 +1,25 @@
+.register-button 
+{  
+    border: 6px solid transparent;
+    border-image: linear-gradient(to right, #0865F1 0%, #C704F6 100%);
+    border-image-slice: 1;
+    background: #fff;
+    color: #000;
+    font-size: 1em;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.register-button:hover
+{
+    background-color: white;
+    text-decoration: none;
+    background: linear-gradient(to right, #0865F1, #C704F6);
+    color: #fff;
+    cursor: pointer;
+    transition: .5s ease-out;
+    -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5);
+}
