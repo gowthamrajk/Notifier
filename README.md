@@ -21,5 +21,6 @@
 *	Once the task is completed user can remove those note from notebook.
 *	The notebook can be removed only if it doesn’t have any notes.
 
+# TECHNOLOGIES USED 📌
 
 
