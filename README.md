@@ -149,6 +149,7 @@
 ## Update Profile
 
 ![image](https://user-images.githubusercontent.com/43011442/130469066-1f1d5736-729c-44d8-b83f-98cda3877381.png)
+![image](https://user-images.githubusercontent.com/43011442/130469157-59d5187f-7345-41a8-a744-1b9fe7acba7b.png)
 
 
 ## Author Info Page
