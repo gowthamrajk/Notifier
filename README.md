@@ -96,6 +96,9 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130465694-877df41e-519d-41c5-83fe-429972b0850f.png)
 
+## Daily Task Remainder
+
+![image](https://user-images.githubusercontent.com/43011442/130465780-3d070aba-340e-4052-8d77-872cae2ea8ec.png)
 
 
 
