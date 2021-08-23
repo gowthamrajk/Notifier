@@ -146,6 +146,10 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130468676-3019984b-70c5-4da8-b54a-75d1e092fcb1.png)
 
+## Update Profile
+
+![image](https://user-images.githubusercontent.com/43011442/130469066-1f1d5736-729c-44d8-b83f-98cda3877381.png)
+
 
 ## Author Info Page
 
