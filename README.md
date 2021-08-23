@@ -114,6 +114,7 @@
 ## Add Notes to specific Notebook
 
 ![image](https://user-images.githubusercontent.com/43011442/130467399-9acd5366-8b5e-401a-a89c-b534c3a737c6.png)
+![image](https://user-images.githubusercontent.com/43011442/130467472-450cfbfd-7e73-4b75-823a-fc87b208c31e.png)
 
 
 ## Author Info Page
