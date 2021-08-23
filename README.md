@@ -92,6 +92,12 @@
 ![image](https://user-images.githubusercontent.com/43011442/130465458-d10ba925-7745-41f3-8dbf-513dedb086c7.png)
 ![image](https://user-images.githubusercontent.com/43011442/130465537-fd27fd39-feeb-4d07-8e02-de3984eb3b2e.png)
 
+## Side Menu
+
+![image](https://user-images.githubusercontent.com/43011442/130465694-877df41e-519d-41c5-83fe-429972b0850f.png)
+
+
+
 
 
 ## Author Info Page
