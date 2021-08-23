@@ -87,6 +87,9 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130464926-e9e52dbe-3641-4ba8-b975-c77d7c921221.png)
 
+## Main Dashboard
+
+![image](https://user-images.githubusercontent.com/43011442/130465458-d10ba925-7745-41f3-8dbf-513dedb086c7.png)
 
 
 
