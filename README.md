@@ -6,7 +6,7 @@
 
 - It is a A web app to track daily work, schedules and to remind the user.
 
-## Application Features 
+## 🔭 Features 
 
 *	People can register in this application to set their reminders.
 *	Once the registration is completed. Registered user can log in to the application.
