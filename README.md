@@ -4,7 +4,7 @@
 
 ### For more web developments, visit my [Portfolio](https://gowthamrajk.github.io/) 😄
 
-- It is a A web app to track daily work, schedules and to remind the user.
+- It is a web application to make note your daily tasks and schedules remainders, end-dates, get remind on that particular day in the dashboard when user logs in anytime.
 
 ## 🔭 Features 
 
