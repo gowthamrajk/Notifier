@@ -74,6 +74,10 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130464486-b1af0e7b-aba3-423d-948d-327d6dc7a0fb.png)
 
+## New User Registration
+
+![image](https://user-images.githubusercontent.com/43011442/130464689-05b2738a-0ec5-4875-ae95-cefa98a710a1.png)
+
 
 ## Author Info Page
 
