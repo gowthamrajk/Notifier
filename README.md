@@ -68,6 +68,7 @@
 ## Landing Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/130464023-bc3af7d0-4513-4d7f-8ed4-6fc77e70bc5c.png)
+![image](https://user-images.githubusercontent.com/43011442/130464111-044ba144-5b13-4c51-beee-8d058e39d53c.png)
 
 
 
