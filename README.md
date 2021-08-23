@@ -79,13 +79,14 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130465132-8d607d65-fd12-4497-862c-90e05b0c4973.png)
 
+## Login Page
+
+![image](https://user-images.githubusercontent.com/43011442/130464486-b1af0e7b-aba3-423d-948d-327d6dc7a0fb.png)
+
 ## Reset Password page
 
 ![image](https://user-images.githubusercontent.com/43011442/130464926-e9e52dbe-3641-4ba8-b975-c77d7c921221.png)
 
-## Login Page
-
-![image](https://user-images.githubusercontent.com/43011442/130464486-b1af0e7b-aba3-423d-948d-327d6dc7a0fb.png)
 
 
 
