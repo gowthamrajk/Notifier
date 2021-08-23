@@ -140,6 +140,7 @@
 ## Edit Notes
 
 ![image](https://user-images.githubusercontent.com/43011442/130468384-ec06f1c4-b27d-401f-b813-684303c99bc1.png)
+![image](https://user-images.githubusercontent.com/43011442/130468490-8bd16f60-9d43-4e19-accd-8ffee6ea49c6.png)
 
 
 
