@@ -160,7 +160,7 @@
 ![image](https://user-images.githubusercontent.com/43011442/130469336-31e9d277-3c24-41e3-b5f8-2ce928707dfd.png)
 
 
-<br><br>
+<br>
 
 **For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
 
