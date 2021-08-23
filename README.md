@@ -142,6 +142,9 @@
 ![image](https://user-images.githubusercontent.com/43011442/130468384-ec06f1c4-b27d-401f-b813-684303c99bc1.png)
 ![image](https://user-images.githubusercontent.com/43011442/130468490-8bd16f60-9d43-4e19-accd-8ffee6ea49c6.png)
 
+## Searching Notes
+
+![image](https://user-images.githubusercontent.com/43011442/130468676-3019984b-70c5-4da8-b54a-75d1e092fcb1.png)
 
 
 ## Author Info Page
