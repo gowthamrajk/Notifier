@@ -151,7 +151,6 @@
 ![image](https://user-images.githubusercontent.com/43011442/130469066-1f1d5736-729c-44d8-b83f-98cda3877381.png)
 ![image](https://user-images.githubusercontent.com/43011442/130469157-59d5187f-7345-41a8-a744-1b9fe7acba7b.png)
 
-
 ## Author Info Page
 
 ![image](https://user-images.githubusercontent.com/43011442/130464303-bea6bc4b-2956-4ccb-b78c-51a4629105e2.png)
