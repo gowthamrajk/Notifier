@@ -110,6 +110,7 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/130466352-f84e9fa8-7634-4c7a-bee0-ec58b5b079d7.png)
 ![image](https://user-images.githubusercontent.com/43011442/130466741-a5a23884-c057-44f4-9ec7-ff1aa98a71c8.png)
+![image](https://user-images.githubusercontent.com/43011442/130468067-78517b4f-d9f8-48c1-8776-b30981e3806e.png)
 
 ## Add New Notebook
 
