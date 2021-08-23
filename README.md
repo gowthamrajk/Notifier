@@ -137,6 +137,11 @@
 ![image](https://user-images.githubusercontent.com/43011442/130468206-121aecb3-7d0d-44a2-9777-ab3fe2af9115.png)
 ![image](https://user-images.githubusercontent.com/43011442/130468291-787fed94-c978-4add-bfff-3f7f28b99dc4.png)
 
+## Edit Notes
+
+![image](https://user-images.githubusercontent.com/43011442/130468384-ec06f1c4-b27d-401f-b813-684303c99bc1.png)
+
+
 
 ## Author Info Page
 
