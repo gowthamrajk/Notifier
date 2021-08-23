@@ -70,18 +70,23 @@
 ![image](https://user-images.githubusercontent.com/43011442/130464023-bc3af7d0-4513-4d7f-8ed4-6fc77e70bc5c.png)
 ![image](https://user-images.githubusercontent.com/43011442/130464111-044ba144-5b13-4c51-beee-8d058e39d53c.png)
 
-## Login Page
-
-![image](https://user-images.githubusercontent.com/43011442/130464486-b1af0e7b-aba3-423d-948d-327d6dc7a0fb.png)
-
 ## New User Registration
 
 ![image](https://user-images.githubusercontent.com/43011442/130464689-05b2738a-0ec5-4875-ae95-cefa98a710a1.png)
 ![image](https://user-images.githubusercontent.com/43011442/130464752-e9b2b8e9-7b9b-4b18-a1af-81429d96e235.png)
 
+## Registration Success
+
+![image](https://user-images.githubusercontent.com/43011442/130465132-8d607d65-fd12-4497-862c-90e05b0c4973.png)
+
 ## Reset Password page
 
 ![image](https://user-images.githubusercontent.com/43011442/130464926-e9e52dbe-3641-4ba8-b975-c77d7c921221.png)
+
+## Login Page
+
+![image](https://user-images.githubusercontent.com/43011442/130464486-b1af0e7b-aba3-423d-948d-327d6dc7a0fb.png)
+
 
 
 ## Author Info Page
